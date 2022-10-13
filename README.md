@@ -1,8 +1,8 @@
 # Iris Data Mining
 
-<div align="center">
-  <img src="https://gadictos.com/wp-content/uploads/2019/03/iris-machinelearning.png" alt="Iris" style="height: 256px; margin: 0 auto;" />
-</div>
+<p align="center">
+  <img src="https://gadictos.com/wp-content/uploads/2019/03/iris-machinelearning.png" alt="Iris" style="max-height: 256px; margin: 0 auto;" />
+</p>
 
 This notebook is a simple example of how to use the [Iris Data Set](https://en.wikipedia.org/wiki/Iris_flower_data_set) to train a model using [scikit-learn](http://scikit-learn.org/stable/).
 
